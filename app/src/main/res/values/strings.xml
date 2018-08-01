@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewK</string>
+    <string-array name="technology">
+        <item>Android</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>Java</item>
+        <item>Dotnet</item>
+    </string-array>
+</resources>
